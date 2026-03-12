@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "The Chase",
+  "base_artist": "Hearts2Hearts",
+  "createdAt": "2026-03-12T07:49:17.081773Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Chase, Pt. 2",
+      "artist": "A Tribe Called Quest",
+      "has_synced": false,
+      "path": "select/01_The_Chase,_Pt._2_A_Tribe_Called_Quest.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Chase",
+      "artist": "Tinashe",
+      "has_synced": true,
+      "path": "select/02_The_Chase_Tinashe.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Chase",
+      "artist": "Tinashe",
+      "has_synced": true,
+      "path": "select/03_The_Chase_Tinashe.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Chase, Part II",
+      "artist": "A Tribe Called Quest",
+      "has_synced": false,
+      "path": "select/04_The_Chase,_Part_II_A_Tribe_Called_Quest.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Cut to the Chase",
+      "artist": "Morcheeba",
+      "has_synced": true,
+      "path": "select/05_Cut_to_the_Chase_Morcheeba.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Thrill of the Chase",
+      "artist": "Kygo",
+      "has_synced": true,
+      "path": "select/06_Thrill_of_the_Chase_Kygo.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Chase",
+      "artist": "Lifelike",
+      "has_synced": false,
+      "path": "select/07_The_Chase_Lifelike.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Chase",
+      "artist": "Propaganda",
+      "has_synced": false,
+      "path": "select/08_The_Chase_Propaganda.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Chase - The Goodnight Mix",
+      "artist": "Propaganda",
+      "has_synced": false,
+      "path": "select/09_The_Chase_-_The_Goodnight_Mix_Propaganda.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Chase (The Goodnight mix)",
+      "artist": "Propaganda",
+      "has_synced": false,
+      "path": "select/10_The_Chase_(The_Goodnight_mix)_Propaganda.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Bite the Bullet / The Chase Is Better Than the Catch",
+      "artist": "Motörhead",
+      "has_synced": false,
+      "path": "select/11_Bite_the_Bullet___The_Chase_Is_Better_Than_the_Catch_Motörhead.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Chase Is Better Than the Catch",
+      "artist": "Motörhead",
+      "has_synced": true,
+      "path": "select/12_The_Chase_Is_Better_Than_the_Catch_Motörhead.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Chase Is Better Than The Catch",
+      "artist": "Motörhead",
+      "has_synced": true,
+      "path": "select/13_The_Chase_Is_Better_Than_The_Catch_Motörhead.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Chase Is Better Than The Catch",
+      "artist": "Motörhead",
+      "has_synced": true,
+      "path": "select/14_The_Chase_Is_Better_Than_The_Catch_Motörhead.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Chase",
+      "artist": "Queensrÿche",
+      "has_synced": true,
+      "path": "select/15_The_Chase_Queensrÿche.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Chase",
+      "artist": "Keith Murray",
+      "has_synced": false,
+      "path": "select/16_The_Chase_Keith_Murray.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "The Chase",
+      "artist": "R. Kelly",
+      "has_synced": true,
+      "path": "select/17_The_Chase_R._Kelly.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "The Chase",
+      "artist": "Tori Amos",
+      "has_synced": false,
+      "path": "select/18_The_Chase_Tori_Amos.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "The Chase",
+      "artist": "Marit Larsen",
+      "has_synced": true,
+      "path": "select/19_The_Chase_Marit_Larsen.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The Chase",
+      "artist": "Hearts2Hearts",
+      "has_synced": false,
+      "path": "select/pl_01_The_Chase_Hearts2Hearts.txt"
+    }
+  ]
+}
